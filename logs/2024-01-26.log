@@ -1,0 +1,2052 @@
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:34:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 17 ms Request ID: [2d9e4a0a-16de-472f-84e2-2baf4120f1af]
+
+Started GET /api/v1/travels/4 for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:34:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 77 ms Request ID: [475376f6-5636-453c-b323-310f79fc9b30]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:34:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 12 ms Request ID: [9a952b59-5b82-42b5-a76a-bf491d42c841]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:34:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 6 ms Request ID: [e524a6dc-5fe3-4520-8ae8-204a4436e917]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:35:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 6 ms Request ID: [0c22db9f-df1a-4f1d-8765-941be180f416]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:35:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [3d4e125e-e07e-418a-8649-f1324ac1cb56]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:39:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 13 ms Request ID: [758f6dce-2830-4b05-bbe1-3cc2dabb26a7]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:44:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [4738694c-a9c5-43c3-80a4-b08016af89e3]
+
+Started POST /api/v1/users/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:44:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [bf255328-6d8d-453d-b996-a5695d1e0464]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:44:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [4cb2fce4-a7d9-4dba-aa94-4e05be3a5291]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:44:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [e2ed62f1-0806-4c7f-bf9b-9df5d6a99e93]
+
+Started POST /users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:44:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [6c40ba1a-5aa5-4ecc-b401-4373f089a23b]
+
+Started POST /users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:44:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [35af488d-c258-4e8d-8d45-a62175ea654e]
+
+Started POST /users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:44:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [3a8884b0-bbcb-4f1d-b1e3-9f90b34f8f45]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:45:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [3124afd3-aafd-45b3-82ed-3a52858a488a]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:45:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [86e60229-48a4-4463-96c0-606c2e0f8a58]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:45:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [410857d2-933f-418b-9c14-e4be2c8ad9f6]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:45:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [32123551-d05d-4300-b675-bf81b0fdd0cf]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:47:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 13 ms Request ID: [be424c36-9839-45e5-a685-b6187e8670c9]
+
+Started POST /api/v1/users/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:47:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 6 ms Request ID: [a160f74a-b674-4b72-831b-8586cdaccb1e]
+
+Started POST /api/v1/user for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:47:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [7dffd4fd-e0a3-49c8-b5eb-547e780b9885]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:47:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [a57c79f5-60d4-4c75-80fa-f05911b5179b]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:48:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 13 ms Request ID: [5d222c34-719d-46c8-9c77-d14180c8c35b]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:48:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 6 ms Request ID: [c69c2d73-f62b-4b77-826b-726c25ec7992]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:48:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [b66f05de-a7f7-4ecf-9e48-ba254a80c88e]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:48:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [d22bfbb2-7724-49e4-a2ce-5517ef7dfbc7]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:48:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [cf34804a-00c1-4de0-bdca-9246eb97e055]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:48:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [5f1cbcca-b693-452c-97ca-4403cac385b4]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:48:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [acf22b14-0ed5-4fbd-9b93-a14fa70980c9]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:48:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [b10a28e0-167b-4d37-a21d-8db030a04e41]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:48:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [70c2f529-6ccd-47f9-8e78-2495ec1951e4]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:48:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 15 ms Request ID: [edba521e-dac2-46ab-a38a-9a2e5c09e572]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:48:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [9e1ded6e-5d99-455c-9b3c-42d740c0d0e4]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:48:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [e2159aaa-f2a6-480f-9953-c285a5fce4f0]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:53:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 11 ms Request ID: [993d7af2-e76b-48e3-8a31-a6b898987c01]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:53:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [2babede8-96d4-4dd7-9b86-c88e61040a5a]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:53:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [8c03dd34-3296-4f05-8e71-3a51dc0d4c64]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:53:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [ebad18af-4fc2-4851-b586-7119bbb88ce9]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:53:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [57418224-c2c6-4d5f-ba68-50d9054331c3]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:53:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [fa58753b-233f-438d-8b85-93a183f57282]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:53:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [744f5629-81cc-4746-814b-145fa658e72d]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:53:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [c09b6dd9-2189-4ccf-86e9-1381258ea537]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:53:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [49bd3651-bbab-434e-a165-0e8f4d71f730]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:53:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [f21b78b5-6f28-44eb-bdf3-3c87888f9686]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:53:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [b334f9f4-41e8-42d8-96cc-5c8a0f9bfc5b]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:54:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [b1683162-4766-4e46-b116-5cb4d1380d84]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:54:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [b6e8077a-c6bf-4074-b389-dbf487a42c42]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:54:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [21356753-113d-4599-b2df-8c2f5b209803]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:54:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [43926d2a-d3d4-4e00-84bb-cdcfcc7d325b]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:57:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [1ce90f29-79bb-4de6-af0d-de7dd786263a]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:57:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [6908f911-fcc4-4258-9d28-ce9319e5a440]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:59:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [4aca6778-5ae2-42cb-b7e3-4d337c2dc0cf]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:59:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [f29179c2-1783-4bf6-acae-decfbfa95b15]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:59:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [154ab549-ed31-43f1-b06c-44f11b6a552b]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:59:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [526e9a1c-6297-4325-9abb-e1622146fe5a]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:59:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}
+Completed: 404 message:  Time response: 3 ms Request ID: [bf1d7f72-dbb9-4c45-b03b-d3e179c56855]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:59:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}
+Completed: 404 message:  Time response: 4 ms Request ID: [eaefd733-6c4b-4cd6-857f-6271d2929dc2]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:59:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}
+Completed: 404 message:  Time response: 4 ms Request ID: [aecc7a66-2c60-453f-8f40-df4583487b5e]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:59:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [57c601bf-256b-4fa0-8675-952635db7e67]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:59:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [bc2a14ae-e32c-4fcc-b54b-3bd432564231]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:59:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [e88f3adf-3e36-4099-affc-5db277c1c41a]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:59:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [4cdd33b9-d4e6-4912-9084-51f7c7ce7019]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:59:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [91683d26-c6cd-4c54-88d5-150642f876d1]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Thu Jan 25 2024 23:59:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [8edb024d-c679-4e3c-adaa-b28fdb40aa36]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 17 ms Request ID: [2db3c18c-a9ec-4f65-823c-66b57c8691b9]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [2310bac4-3a94-4313-8ab7-88c6f6be4f3d]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [09c213a3-2fc5-4e12-8d8b-28eb7a5c5819]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [c65a11eb-6d35-4e35-8a7d-7de1396f1373]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [a5ed6e72-e63a-48c1-822d-10c3416fcc46]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [be091ab0-2593-46be-859b-b20cd92b058e]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [6c798a4b-b19f-412f-9ce4-9a0f7a2e9cf2]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [91c3221d-3087-4c11-a90f-1ee0d9635aa3]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [005c7365-6be5-4397-8e02-3c47e3e15feb]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [f7dd5ccc-35a0-4edf-85e9-7cb15a50a7bf]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [1745142e-cd20-41ee-a06f-666a6e02ec46]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [edd4f9a4-06d1-4af4-b10c-698196f9226b]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [43dee660-3d24-4710-9580-31cbce914324]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [35cbd340-8fa0-420e-b359-db458ee1234a]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [40a4a269-083b-44b4-bb8e-aeb32db090fd]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [4d0f85bd-5c30-4719-8f0b-eb294b80da2d]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [00c2bfda-76e4-479f-bad4-687f83282925]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [54779016-a6e2-4dd9-832d-c022b49e3966]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [597cdfff-d5b2-4415-b2f5-2a22ca6dd17c]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [f3bb31ae-6d9a-4a0d-aae1-42b9b725906c]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [d167ea00-b561-45dc-939e-8a97923bbce9]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [fa1e29e7-33f5-4c7c-b5cf-ff58b51f8d3d]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [29295214-adab-4469-9906-3475296c67dc]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [70acfaca-c82e-4b77-82e9-5f7dcd24f73e]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [004338b2-7a2c-40ca-a2a2-6ffcf70a931d]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [3df06c8c-22e6-49e5-a9d3-d9c8c1068ef9]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [06d94f6d-9507-4c5c-91ef-8b1c92b40cfa]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [f3121eea-ad86-404e-84a0-f13828a81485]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [2b56f856-c10f-4180-ac74-0e71096be121]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:00:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [81d3dcab-c84d-463b-bf70-a73d1cff0df3]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:16:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 15 ms Request ID: [a13b81a1-4e26-43d5-89fe-52538480246f]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:17:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [fab436e7-b06b-4f84-a5da-a2a430d8bf93]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:18:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:19:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:21:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 400 message:  Time response: 176 ms Request ID: [04649c49-7e25-427b-bf81-823eae94b8e3]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:21:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 400 message:  Time response: 217 ms Request ID: [62b0a6b7-e7f7-497f-ad47-28a3b4213821]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:23:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 400 message:  Time response: 326 ms Request ID: [138a26e8-4cdf-438f-b016-145cee89a7d0]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:24:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"lato","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 400 message:  Time response: 207 ms Request ID: [ede919e8-3fa6-46c3-8a64-f27ea0c3bf00]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:24:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"lato","email":"text@gmail.com","password":"genius123"}}
+Completed: 400 message:  Time response: 215 ms Request ID: [c19b75b0-0285-4ffe-bc6e-d375d44b652b]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:24:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"lato","email":"text@gmail.com","password":"genius"}}
+Completed: 400 message:  Time response: 211 ms Request ID: [79831550-289e-4b6a-b28e-956a5da48680]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:24:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"hans","apellido":"lato","email":"han","password":"genius123"}}
+Completed: 400 message:  Time response: 214 ms Request ID: [5b691457-795a-4fa7-ba94-715239a50e17]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:27:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 400 message:  Time response: 215 ms Request ID: [1380c987-4800-44c4-93aa-17d91b9665c0]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:28:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:29:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:30:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 400 message:  Time response: 183 ms Request ID: [de4bfe33-def8-408a-9214-792d26a5826f]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 00:36:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 194 ms Request ID: [bb9ff190-da42-4c5e-b9b7-e00c5b397810]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:48:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 17 ms Request ID: [0eaf6294-45a0-4703-9c36-d8406064d249]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:48:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Hans","apellido":"latoja","email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [246fc2d1-7186-4873-9351-9a4a7052b83d]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:49:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [7159caeb-75f9-480b-a319-3f884c48b69a]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:49:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [683db4cc-61fa-4fac-9228-24ff48f3b4e5]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:49:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [cdba5b7b-7716-4c93-9b62-3ae5fd18d753]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:49:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [097d4a29-51a9-45af-bc14-f24d6b46307b]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:49:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [7a04188e-9d65-4743-b234-b8f1b142ed8c]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:49:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [5f304dc1-fe18-43f9-98f3-7df88e8f74a0]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:49:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 6 ms Request ID: [aa3248b4-bfb4-4b81-8da9-ed81f5580930]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:49:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [be3909da-5a88-4747-a003-4bf556de55e7]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:50:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [486d9123-7b9b-4907-9d12-178cf243c929]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:50:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [667c93e2-b2f4-4011-b9f9-3968399178ae]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:50:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [66abaa4a-6d84-4513-8009-56fda97ca0e8]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:50:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [7523d16c-95a6-4419-a042-43a27df276d3]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:50:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [275095fd-31c9-4b0a-ac8b-6e573bef3a8c]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:50:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [a66622de-6e1c-411f-8df3-17ebf9dc5b69]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:50:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [0c31e058-b634-45b5-b19d-23e8cfdb2835]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:51:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [f4babcf2-1533-4403-a227-4a4d938742d6]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:51:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [08caff15-35da-45a6-8a44-cede9912c7dd]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:51:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [fc2a5121-5bd5-4c65-b6d9-c4b5b3ecfd85]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:52:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 16 ms Request ID: [1c4c5685-8538-4c4d-a1a0-e7ede4ef26ce]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:52:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 13 ms Request ID: [bcc32bd8-52ba-42df-81b2-a3f63466789c]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:52:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [dfdd8092-aada-4497-8f46-78911eeb17c6]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:52:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [a1c574a5-f2d1-448c-9cb7-68ab6132393f]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:52:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [abc921a9-f523-4eb8-887f-222f6ec84cbc]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:52:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [c41ab344-e1de-48ec-8024-ad5545c9f64a]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:52:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [e2b86129-b8e6-44a8-93a0-f3c76c512681]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:52:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [9c9fb29f-30c9-42bc-9add-800279018533]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:53:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Sofia","apellido":"Baeza","email":"sbaezaferrera@gmail.com","password":"maneno390"}}
+Completed: 200 message:  Time response: 176 ms Request ID: [3661075c-f719-4c0d-a941-d54907c90b04]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:53:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 211 ms Request ID: [3a55b437-e3e4-42c3-a3f1-62934d9d4056]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:54:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius1234"}}
+Completed: 400 message:  Time response: 303 ms Request ID: [0cc2397c-8b34-4dad-bde5-53451aa0352e]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:54:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 136 ms Request ID: [610b8e26-90ff-4301-9072-f3c6612a2065]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:54:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.comM","password":"genius123"}}
+Completed: 400 message:  Time response: 5 ms Request ID: [dd8f9b3e-1d4f-4176-9f06-827f4115ff80]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:54:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 140 ms Request ID: [1d8b43b8-f5d9-4991-8aa2-154f02628c66]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:59:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 168 ms Request ID: [2122a1dc-70db-4fcf-a835-2e2f88fba6f3]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:59:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 6 ms Request ID: [1918fb12-6259-4ad7-8c43-cb3524a7570b]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:59:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [1038d7c7-bea7-43d3-bdd7-017d04c493f5]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:59:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 6 ms Request ID: [a2128c8e-bd9e-436e-a171-dff73bd490a8]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:59:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [92c32792-c720-45a6-9224-f991bdbbb0b1]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 01:59:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [5de84340-d209-457a-876c-e223089af642]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:00:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [bfa3973f-ec5b-4c1a-b054-066def52eb04]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:00:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [0762e02c-6e5d-4a78-baad-11af9f3a6b4b]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:00:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [ff20d5c8-8ba6-464c-8864-11349764c675]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:00:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [07ab6764-f058-4601-8147-d15e31dc1ff5]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:00:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [11e4797e-7a7c-40d4-9093-db7a96c8a04a]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:01:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [0dd2d751-35b6-4b6b-8a23-3376ce0ac2d3]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:01:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [14370338-ca82-44ca-8869-275c536e8a21]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:01:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [1161dfb3-ef9d-4d63-880c-ec85e7d93557]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:01:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [3c935e10-b57f-422f-9c80-aaeef2c2ce47]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:01:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [37658dc4-bc5a-45f3-aaa0-e7dca3585183]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:01:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [f0590c88-1aae-4b2e-8f53-b7357862a8b9]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:02:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 205 ms Request ID: [ba33413d-fb5a-44d5-bfef-28c8cd703406]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:02:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 144 ms Request ID: [50d49f05-c64c-423c-870c-8295e6bd7532]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:03:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 212 ms Request ID: [bb3095a8-9b02-4b22-8f08-10c0b082a707]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:03:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 142 ms Request ID: [f2749c3a-94ef-4538-b996-cbdbca089a4f]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:03:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 140 ms Request ID: [05bac207-5a91-4634-9b8a-8ab4ebb83fc0]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:03:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 147 ms Request ID: [f49d26de-0dd1-45dc-85f4-9c83151889f9]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:03:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 139 ms Request ID: [ea94dce7-6a5c-49c8-b8fa-0c7983a084ef]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:18:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 210 ms Request ID: [5723940d-2e73-43fe-b7da-a924b3b5aa2e]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:18:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 135 ms Request ID: [3db4b1b0-339f-4c5e-bf5a-3db296619a7f]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:18:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 134 ms Request ID: [9343e42f-f83b-4115-a228-3e9b3702075d]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:18:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius13"}}
+Completed: 400 message:  Time response: 198 ms Request ID: [3ac98035-cf20-4712-baa9-c087d8ba7943]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:19:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 133 ms Request ID: [34ba9f3e-f919-42ec-a6bf-27c1b88de1f2]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:25:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 225 ms Request ID: [50adc394-3d3f-4b64-8932-c05210716f7c]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:25:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 134 ms Request ID: [5fd95bbf-b73a-4ed0-a03b-a140ed0178f1]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:25:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [411e926c-4863-4e95-bf8e-d5b4a63f0d83]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:25:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [c700d99b-5a47-465d-ab96-24217e1bbe35]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:25:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [6b24b5f2-c4da-420f-bec5-9e5ac29b5ce1]
+
+Started GET /api/v1/travels/4 for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:27:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 81 ms Request ID: [6b27699c-71b7-4590-a455-823d9af0f500]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:27:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 6 ms Request ID: [4e085589-542a-4670-970c-e9ace763b1ad]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:29:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [802df12d-a1f1-4205-bf29-9cb6d5f64e26]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:29:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [1a592923-ac37-4363-90f6-150eba0b1c62]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:29:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 205 ms Request ID: [17d09c2e-f627-4327-adbd-b660c1114e5f]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:29:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [676c03a5-2da5-4bd0-9181-9798f748065a]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:29:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [7a3bbc48-00ba-4dd1-acd2-62d73a6f7343]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:30:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 13 ms Request ID: [bcc029e5-0afa-4a14-a2eb-5e80075684a1]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:30:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [4040a680-3958-4e99-aedb-8536adda4ba8]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:31:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 13 ms Request ID: [9cd2e996-1cc0-480a-97ea-28488cfb43a6]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:31:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [91ff4824-f1e7-4c33-8a54-e64f76dd1fc9]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:33:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [710b4994-ac61-4097-8bca-511296516693]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:34:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 20 ms Request ID: [4adb5aec-5480-4a45-926f-b3af9f3a7b9e]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 17 ms Request ID: [eed5c014-b3dd-462c-8d91-9b9986ed95db]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [f0bb7e09-348b-427a-be8a-dfdf9e89f7e3]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 6 ms Request ID: [07603826-98fa-4a58-b252-b60a91c0984d]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [02689d16-1384-4858-a89c-3b4d06c70960]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 14 ms Request ID: [bad42ffa-4c4e-42d7-90e6-cc2cf998d3eb]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [4e6bf388-2044-4235-8c59-b1feb6616a60]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [3e4a461c-9338-4dff-b57e-4f220475c271]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [2c1491e4-2faf-4d76-bed7-60dc79810958]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 7 ms Request ID: [6ec4d08f-0d46-474e-815a-40156cb0435a]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [7a7d7ca7-3044-42e8-a337-99c61cefc605]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [c1d1ca74-d25a-44a3-a93b-11f17fc9a15f]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [1a2afab4-c128-42e4-8b0f-a4ad90ef9baa]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [9888e833-7190-4aa0-9ce8-b8205bb8ae5d]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [fa99127a-cc51-421d-bec7-b7800a50d3e7]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [57f48770-3abf-407e-bf64-ec5667475905]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [8785ef3c-c0fa-470d-829b-6578fa1af150]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [cc6c7517-e176-4e77-985e-6c931d54c09e]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 6 ms Request ID: [32f6c986-14c1-472d-b91f-111358b17a95]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [eb4dee8d-6e7b-4d55-b743-03c44029650a]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [4f36bea9-5c12-4048-91e9-ee860e2f2e15]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [deba4b7c-3248-4a20-b738-ceba0678dd70]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [fd79f541-6b0a-4159-b118-4b67f22fbe63]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [10afabce-aae2-41cb-ac86-0dabe91dde8f]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [bff1a942-5d54-49f8-8018-b589fdc48456]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [dc544676-266f-48be-93d9-22bd57ee34ef]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [6e6067d8-cfa9-4711-9d8a-73aa5a42c246]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [84ed04e5-de60-482d-bc59-2c20cb9a6705]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [ef728a83-bc74-4303-a9ab-68d817d5ce58]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [53a4656f-75a2-4a29-a557-15c9df06017e]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [b44563aa-98fa-4f32-a2e7-eda8a82f1155]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [5ef00357-3bcd-4727-a204-ba269fc59493]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [dca923e9-1049-4738-b98f-7d5c724f4fef]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [73de95dc-7ff9-47e5-b9fa-c9b2cd4f9c65]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [d7ed4b76-7db5-40ea-97f0-f1360db935a6]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [678e7fe6-6d18-4f82-8802-003be6039658]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [e73ff904-4b9d-48e8-ace6-f3e69827d328]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [bcc11dab-761c-4797-bae2-d2234c54eb4e]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [f02f9163-83f1-45b7-90fc-50691bd38f8b]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [c9682179-e248-4a69-ab7d-cfa69692cb80]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [8e91e10c-a1d1-4c91-bcb7-36ddf5bedbd3]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [e05dcc59-441b-44c7-b8cf-397bf90871f6]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [bdebb564-9539-4ee4-bf43-6ebaff1e4ff6]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [dfd31d4f-7496-47ac-abe2-440ee0058ddc]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [e08adf86-3d8f-44e2-92c0-cea535d82f92]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 6 ms Request ID: [17aadc2c-4f75-477f-8497-0c2e0645edd4]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [a421aa41-792b-4da0-80da-9f2e6250bc2d]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [96180daf-3ce3-4773-9713-de31d5040bce]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [1c79668c-95cd-42f4-a816-980a67b685df]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [3ec53a23-8b05-4204-83f0-4e9f0b735ed8]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [e8db578c-e635-4cf8-86b2-0380934b5723]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [2b383bf6-07ee-4485-a3fa-5ab026719b80]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [d5f99b1c-9088-4b0c-9e87-60e21aed63db]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [4297dbfb-7904-4207-b3f5-f576dffc2412]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [0f08de22-e5b1-4820-9cc7-c45552b85b6d]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [9d596a0d-035f-44c6-b38a-e1db3bc78af7]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [7bee8a14-4368-4b6e-904e-6f84250459e0]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [919300af-1b11-458b-aac6-bb205010797c]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 6 ms Request ID: [1e2e4102-8cb0-4be6-895c-6ea9b5e597df]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [ccede06a-be0d-48b8-aa4e-df9c2ee29a50]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [faca948a-0346-49e3-8275-6a2d0247d93d]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [4da40b46-9636-49f3-94fb-298256ded8ef]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [da85adbd-f5a7-4793-952b-a1d473459952]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [51996b7b-a8c1-4f25-8b55-0a53cde35f38]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [e7ab398c-f104-47a7-aaff-467c3f42d349]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [acfcdbec-0ce0-403e-849d-8e74885dd993]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [832e16a0-61e1-4111-b3a0-6e6618504f82]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [3838c379-b094-4c98-8383-5a1050ef8977]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [6d3bafee-0d3b-441e-a93b-07abf45dff70]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [a4ee848c-db29-436e-8986-d6044f2f3def]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [e1a20b1b-633a-4496-9707-2d17b2991598]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [37e951c0-7f51-4bfa-83f5-8ec72860b97b]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [c7b52af7-b9cb-4be3-bedf-7df23282e918]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [61a40be0-2063-4d05-8618-ed6915067a80]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [266f7253-6fdc-4a1d-949f-3224232d2b7c]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [3569cf34-201c-4189-aac4-3da4b2fe4049]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [b2781a0c-33df-4f06-90f9-070325738b0c]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [2938a4d8-0a29-4755-bbb6-54d71d283bfe]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [f6640f31-0236-450c-be24-580cdbdb9758]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [362fc75d-7c22-4a82-8480-0165b46e820a]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [88f88c6c-f615-4985-a9c4-703fa59c1d88]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [6eeed949-485b-4a31-bf76-2e2dcc7abd37]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:39:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 200 message:  Time response: 237 ms Request ID: [b1aa26b6-05a7-40c8-8654-80520de609b2]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:40:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [35c8ccb9-bbaf-4836-939e-deb1e0f8f1a8]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 14 ms Request ID: [b95070ac-c3c5-4acf-89d0-5974b20e7934]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [72fe37c2-5814-4d74-bb94-422e9a77eef7]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [9212c464-92c9-4174-b0ba-b2f97dd07fd4]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [3a3b9eed-0c0b-44ee-b9de-bf63d443c325]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [c7ff5c6f-cae9-409c-9798-e8d5c2468746]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [4396e3c5-345d-4c9c-a41a-b572cc790bce]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [a50b73cd-b78a-42bc-b7c7-2b7d3ab68239]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 6 ms Request ID: [4fa15189-cfcc-4300-ad88-cedacfc3bb9a]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [4e82fd79-9d35-426d-9d39-86bb2252ac8f]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [387db0da-7177-4471-8dd6-2ef1176f1751]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [826a730a-903e-45ab-b8be-4b2d5ac89b6b]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [54cce82f-a21a-4993-9ed8-778eea09cfea]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [429032ad-58d7-455f-88ab-46c990d743e9]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [64e56c5c-d182-4578-be9a-c01bb3a3ce91]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [d5d07167-60ca-4cd1-91e4-bff2b3b59a5f]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [1542bdb6-f8c4-421c-9dbc-765bea567d0b]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [f8c1f41f-6064-4332-8908-eaed9c22e098]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [3ed8c2a7-954a-48bf-bddb-f6193444ad89]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [2798c76a-0117-4534-a585-c7269a3d5c37]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [1bbc830a-16cc-4330-8923-ee87467daed3]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [01beac3f-a9a9-48c5-aa28-82dd2addb4cc]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [853d5694-8d36-4768-8cb0-5c0f2b1058ee]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [4337bab0-25f1-424b-b938-247029d56aae]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [7a3fc621-3575-47f8-9b86-3052a5bb932a]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [b24c71b4-0de3-4b07-a7e4-4388a928d904]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [a2b43fbd-f6ab-440a-8886-97270351f528]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [ced8276b-06d0-451d-8f4b-bc96f3d3b9b8]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [6edd7456-a72d-4bc4-befe-4a1bca56ef8d]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [03727081-0176-42b4-9d2a-d69324cbe843]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [64a781ac-ac84-4742-abc0-a4228ec86fd0]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [8b72c95f-4266-4e95-99e7-885a853b7f5c]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [70d673c3-8249-4d46-848e-199222a26d13]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [39766ff6-dd62-43a0-a720-6d8dfeadf1f1]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [f7eef9c3-3fe9-4e31-9454-8f3823a1c1bd]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [f968a942-19ad-4c84-b5e3-75465a202a74]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [4c68f9ca-a1da-4357-a7df-9c4cf069875f]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [50896ebe-fc91-48f7-a6f3-cc0d0ea22d77]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:41:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [2dedca4c-2542-4550-84d5-dac67f049347]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:42:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [09c965ef-a5f2-4821-909e-3fe2edb17c95]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:42:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 6 ms Request ID: [38a889cb-4c1d-425e-8d1a-9f865372e7ff]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:42:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [7c1e4c85-ecc6-4c1c-9215-9f0af6b6f643]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:42:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [de040155-c9fe-43ef-bebf-dfa589cd60ea]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:43:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 13 ms Request ID: [a850e299-10b6-49b6-b1df-6843dc18dc55]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:43:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [3c015682-d1a4-44a1-a80f-7df4be273f3c]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:43:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [b389084a-2d9b-489b-9ade-f4cb97f38860]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:43:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [20beff12-a14b-4229-b912-ffab398dd1f6]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:43:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [a9e19ca9-b4d8-4fff-bd95-861160bda398]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:43:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [794757c0-2c19-4266-bff2-54ce167efc27]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:43:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [6dc1fbef-42a6-4c6f-9467-105ec7c9f1e0]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:43:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [d6813a7d-4b19-4627-ba64-1841ba151c2f]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:43:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [e5b3923d-d891-46a7-bfab-55460b2d6f4b]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:52:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 14 ms Request ID: [8bd04439-a43c-48db-9e1b-ceb102a088b8]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:52:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [3ce33d2f-6806-4eb0-af20-79cbb8275db9]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 02:52:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [566c566e-4335-4003-ab85-30ae37c20117]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:35:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 16 ms Request ID: [0b56af1e-7274-4807-be71-9edb00962282]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:35:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [7fdb3a55-3861-4a41-a2ae-b2583895e7f5]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [b4870f8e-f9ce-4ad0-a115-f99c2d2abf48]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [6abbbbd3-9f78-49a7-97e3-a1c3f26de977]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [27beb6ca-72f9-409d-a19a-ffff2f7f737d]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [41f9ad19-ca38-4b85-91d6-137ce3c4b50b]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [9e434d2c-674d-44ca-be2e-d6252e48eae6]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [f9245ffc-1860-4798-aaf4-e5972634a1c1]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 6 ms Request ID: [2e2c2356-f3d2-4110-9890-7ef97e2d625a]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [564de7b8-df6f-40d2-8d69-ffc2d0686bc0]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [49fdf392-af19-46e1-b9b4-1fc84e342aa6]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [affd588e-3694-449e-bb2c-fd08c6f76d23]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [09188047-33a4-48c8-8528-fe97c7575591]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [b580654d-cfb7-4931-9b09-feeb56b93463]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [58642130-c79d-4e76-8730-81f2dc5ab1ae]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius1234"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [540fe834-8950-4901-8da3-1be56320c522]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius1234"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [185b7502-3040-4dd7-a271-1e39cac595e4]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius1234"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [c284ab7c-c9b3-4777-bc4f-fe03f7908e8f]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius1234"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [64e7fb52-9bbe-430a-817a-bf2b63b47b39]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius1234"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [bd4f14e8-8f91-4de2-9fe0-fba3831f0286]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius1234"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [53f690ff-82c4-4947-97ef-1572d590e952]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:38:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius1234"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [9eae4f87-5b9b-4ea5-9b93-c239ee04c954]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:39:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaezaferrera@gmail.com","password":"maneno360"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [4f63531c-0d90-4e99-ae34-a47bfec94f58]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:39:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaezaferrera@gmail.com","password":"maneno360"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [c37635db-0869-4d58-9c74-e8aabf8b11cb]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:39:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaezaferrera@gmail.com","password":"maneno360"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [b3456fb0-17e4-45f8-b0c2-ccf68b07d5d8]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:39:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaezaferrera@gmail.com","password":"maneno360"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [58ed53fa-b9e6-463a-b1de-6baed7b53316]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:39:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaezaferrera@gmail.com","password":"maneno360"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [d41f60eb-15a5-47b6-be6e-53f6cc844a94]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:39:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaezaferrera@gmail.com","password":"maneno360"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [84b3036f-4dec-476e-b25e-328a9a748f2b]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:39:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaezaferrera@gmail.com","password":"maneno360"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [fd6df5ba-a20e-4f0f-aac3-940fc6d3da19]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:39:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaezaferrera@gmail.com","password":"maneno360"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [2169a5f3-7518-4551-b131-fa993eb544b6]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:39:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaezaferrera@gmail.com","password":"maneno360"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [c2ab672a-a6db-4cae-b83a-7b2dcc340314]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:39:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaezaferrera@gmail.com","password":"maneno360"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [0859c33f-d42a-4479-a659-14504e971e45]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:39:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaezaferrera@gmail.com","password":"maneno360"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [0145dc59-0c2f-46e0-819f-bb604f91e750]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:39:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [a7544a6c-fcd2-43c2-8eaf-44f70092edba]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:39:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hans.latoja@gmail.com","password":"genius123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [34df2f03-e44e-41d3-ae4c-c9779751428c]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:39:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"Hugo","apellido":"Latoja","email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 200 message:  Time response: 229 ms Request ID: [ed1bf307-f65c-4f01-9667-05c1b8d23ece]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [f38eb9f7-9a12-4b43-b4fd-55d28b87cfac]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [419c9f3b-c6c5-4afb-88c6-55920d972301]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [baef2915-f0a7-4734-b4d2-29c0c6dbc45e]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [90fbc3ab-c41b-445b-98d5-8e4b3435dadd]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [db70f93a-fedb-4d7b-baa7-cedac5480671]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [b783d455-594e-4a5a-8904-a48e2dfacee0]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [c439700e-355c-44f0-a2a9-1f7968620a77]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [aed3cc86-8015-448f-80c4-bd5452eed5c9]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [a249c913-3dd5-4e7e-a2ad-b34973cec769]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [17a0b77b-4226-4b12-bdf4-85fbd161e58d]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [c6746372-3f06-4304-b380-23dbc6eea157]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [cb93a3a3-898e-4ffe-8289-c371b45d9759]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [cca29c5f-9e41-4dce-ba0c-4daccb10db32]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [b76fc6b5-add4-4d95-8dba-4b28c3e56a4a]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [676e0beb-cec2-45a9-bf18-d0df40d55b5e]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [d036c4ea-f7de-48f7-b232-c1a058dcf740]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [7c3aefc3-7143-4d48-b4c0-b2b3aa31b037]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [51c324a1-4961-4b78-b172-8388981bdba0]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [25946e0f-4c8c-4ed0-b438-106ddcfdc9f3]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [60156d3e-55fc-4f71-80e2-6d671274ff19]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [7ec16e1a-42e7-46bb-91e4-e5f92d22eac3]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [e134d1c7-3245-4b04-b42b-c997b39a0f26]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [7736a234-9c7e-4747-a2ba-4b3a58f92168]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [c0ada10d-a292-4943-8012-0e578af1dedc]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [68190f8e-8e7d-4d77-9570-fd10a2d44177]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:40:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [f9c6777a-ad26-4820-9d0e-d218c36ae8b0]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:41:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [b6d82241-8205-478e-82dc-138846f16c43]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:41:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [91fe535c-22ae-43ec-8b16-4a8f07a0eff4]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:46:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [4770b2b4-bbc1-45ab-8450-4a63fc8935d3]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:46:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [446199fc-ae91-4947-9997-4b5897b8e1be]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:46:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [377f3f0d-c9d6-4e5e-b36a-ca33f55d1b6e]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:46:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [4bffa7b6-7f7b-468c-aa62-4a57e613d6f2]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [1693c9b6-bc8b-4590-b31c-140a2687dbea]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [37f39dae-f95b-415e-88ad-31515072b837]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 6 ms Request ID: [c3555e71-ef2f-43ea-929f-3e09a822bab7]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [44449d77-9ed1-4a3f-b71e-2ebfddde86f4]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [20ab6065-36e4-4cc6-a739-0f857dc88ecf]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [aa776ecc-7756-4bba-9a9e-e88a020bf851]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [3ddc41c9-2552-44c9-95fd-f92154bdb1e5]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [32da2930-d840-4777-83fb-60dc7b56f536]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [d0bd7b1c-5b99-421d-9379-7f0204539344]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [d6cea7db-5507-434a-afa4-9ed69303308d]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [34c45079-c5c7-45d4-ae89-44e403df83c9]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [08f0e4a2-0c9e-41dd-8d3a-ba5dd7dddcbe]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [925f2cdb-60ec-4ae5-96fd-4d97c1feeda9]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [47266b28-7bec-431d-9448-3c5368b95a34]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [e5af393d-a648-47a8-bdb0-96b06d395257]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [82324633-fdc8-4507-80f8-b87fd9774333]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:47:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [8ccd99b4-7fba-4bf6-8651-6ed1b08d7e13]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:50:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [02e3755f-80f9-41ce-b5db-59cf4877f488]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:50:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [db07f815-2c61-4f3e-9c5d-63a1f480dee9]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:50:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [3efe7798-34dd-4530-b6d8-f5f155286919]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:50:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [1b24a161-5a68-4ab2-9986-79e21c30717d]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:50:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [a092b2c7-dd88-49b9-b6eb-2d816abd91c6]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:51:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 10 ms Request ID: [f15aeb11-8935-40f2-b343-e32146d7a430]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:51:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [ed144ad3-7699-4099-8be2-3a21282e9ca2]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:51:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [f49af5b2-436d-430d-9a73-7f8b0497225d]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:52:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 10 ms Request ID: [d699f9e7-71d9-45a1-a43c-9cea63badb46]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 13:52:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [4398d9b3-96f4-4750-a974-7ae323343755]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:00:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 12 ms Request ID: [03af68b9-ff2f-453e-9c4b-e9a452215ef5]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:00:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [06d76d65-9c23-4553-b9fd-f208b66d8eea]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:00:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [4b5a0b63-c2f5-4e8a-8262-a0b8ad3c3df8]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:00:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [850f6361-23a8-43c1-ac0b-8c26eb45a6ab]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:00:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [076908a1-ac46-4447-8b2d-2877ec95fe94]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 12 ms Request ID: [8f41cf48-33f7-4379-b0fa-253cd29e2b37]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [ce2657b0-9764-4641-aa29-f00c839cfa2d]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 6 ms Request ID: [4a8df71b-0f11-4116-9d1d-8cd57b175e0a]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [e810d23a-21fc-458c-bcf2-0b411b6305f8]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [507387f0-17ea-4619-a69f-6c7987a94f28]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [6d33b658-b9c4-49ee-861a-6f5e3639d3cb]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [572e7b00-ef54-49a4-8479-f481bea48728]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [0cdf857a-8801-4a6c-91a2-10c89ab45194]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [61467f24-6ecc-4c81-a865-d0f4d26cf7e7]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [1a22d75b-fc51-45cd-8a4c-adc8275d5e06]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [c7636d98-e412-45f1-9c8a-02f3f8107d9a]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [fcf544d3-b11e-4973-a1bf-0fc789e8557e]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [40616561-45de-4191-9b13-68c05a4b94e7]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [fd80b93d-af04-47f2-a9ba-272b73328413]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [fbfd0749-fabe-402a-a977-51a115270b7e]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [ae4e3fde-ac84-4f84-ac32-840814bdf7b5]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [0b2c2a8e-bcad-4d28-bd7d-ea427f77b0ae]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [6c3e6c70-35c8-4e09-9eac-84a6eb4bc847]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [bc949d5b-0a16-41f7-bc74-150fe60243ea]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [e3e639c0-f29f-41e8-8172-2d973e253c52]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [84f2c3b4-bdb3-48c7-ae02-3f8c6e592f72]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [1e5ea44e-9035-44e8-976f-05576b5bd9db]
+
+Started GET /api/v1/travels_with_hateoas?order_by=id_ASC&limit=10&page=1 for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 91 ms Request ID: [ea68874d-8f40-476b-b94b-7f5358ec6057]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [a37cd009-26b4-4cac-bc26-7a617f4f4ccf]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [fe5d3d38-e3a8-4bcb-b4ab-6b2ba183ddb2]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [a39021b8-ce52-4924-a757-b8b7f8cfbfb0]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [16f015b8-1ba9-48ae-91c4-bdb025561520]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:04:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [d62c03ff-4e7a-4911-978a-6ca7df610d3c]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 13 ms Request ID: [98804a80-84e8-4cda-ab92-df13ad1f571c]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [9299bf0f-8c68-4d01-bb2b-896c14e57ae8]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [c1995131-a6a5-4b45-8c03-0587657a5c32]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [5cfa4c1e-cd2e-45f2-a90e-8e4ef6d9be68]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [e4459623-5425-4aed-9f2f-9c2c5f01a511]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [c76cc1a7-e802-4cf5-8ee3-2df29bb8402e]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [71ad8dbe-3a96-4309-b072-069ab3725e48]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [078fafba-64c5-4c83-abdb-01b3c270690d]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [ad0d9c1d-1f39-461f-b63e-76fd42599a0f]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [1a7ded9b-3aec-4578-b560-ce1d19d3cedc]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [8ecd3391-ee90-400f-856a-1960c1d92841]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [a9afecb8-5394-4f3c-aeb5-17d5f125461b]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [68136121-1542-4fff-9cca-64c8e5fa1f7d]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [162228bf-fd85-416a-afe6-324f365cf0af]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [1e6fe14b-7b87-4e2e-9f9c-9f4f397a61ce]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [a9ad40a7-7b7c-4d24-80a0-912db69534a9]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [0d739d1d-6040-4305-8567-cb8d59fa53fa]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [b0587f36-c0a6-48f7-9dae-b41c3d68490e]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [9196caa6-9a45-43b0-8c7a-a4d139cc8722]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [94dcb50e-d2de-4e83-86aa-5b4d7844ce2d]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [27a2c512-0b99-4c0c-97d8-30278b96e386]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 13 ms Request ID: [70433009-280f-4274-8a7a-6c807bdeb135]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [bd4afa04-bbfa-49e5-9423-3dfb33b4d7ba]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [5e00e1ac-6210-473d-9825-ab974dc4d77e]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [82b4a161-025a-43b3-9a82-4452dd72fcb6]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [febcf9e8-f0b3-4c8b-96bd-fafd4053f296]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:09:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [4c3452d2-3238-4a41-8bd8-becb35dc8322]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:10:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 17 ms Request ID: [d7fccc3b-1af2-4498-9635-84869c660e4c]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:10:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [a55cf589-e851-4843-b678-4ca435ce65b0]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:10:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 6 ms Request ID: [de52058b-1387-4542-aec5-2703e5253bd3]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:10:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [5565d910-e9c3-4a0d-9eae-e96dc3339d09]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:10:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [dca3f05f-3b0c-4d76-8a39-7b2ab46c6dfc]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:10:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [8d5153d0-261f-4a15-96d9-420f128e2983]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:10:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [83f3c187-e40b-4dc8-9683-82719a98ff1b]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:11:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 200 message:  Time response: 236 ms Request ID: [249a2a0f-3482-44c8-91b5-eebd13717415]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:12:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [cc580756-b601-4a00-ba74-d7cad67e4982]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:12:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [b3e0f06c-53ae-4c22-acc1-86312966348d]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:12:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [81fc6e47-897c-4c13-bcf9-a3f24b23a758]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:12:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [888a3ed1-1ac1-4445-bc95-9bf4187c5d5d]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:12:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [117f0896-4296-4d90-94f3-74976b13672b]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:12:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [e647dee0-3310-444d-8334-85bcf28cf3a3]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:12:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [6343397c-5fa7-46f6-b53a-bdef448fd9bf]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:12:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [f3309739-77c1-4ee1-9027-44d320e5b9c5]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:12:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 200 message:  Time response: 213 ms Request ID: [1cf00617-7b62-44b1-b6eb-2b7d6a01473e]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:12:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"hugo.latoja@gmail.com","password":"huaso123"}}
+Completed: 200 message:  Time response: 198 ms Request ID: [f2ab1a64-de01-451c-9c89-08e273a4866e]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:12:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [98d4745c-2c73-4b18-8dd9-1df15e8b9871]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:12:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [f395be35-6168-4028-add6-a72682631ab1]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:16:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [3b746f00-4216-43a7-bf8c-ab4115da47fb]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:16:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [550fdbad-3b1b-4382-b403-ce50ec667309]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:16:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [f2d785f6-dc7e-4f22-b0b3-199e0c399b8c]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:16:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [24f71197-b85b-4baa-b93e-4abc34cc58e4]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:16:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [ff31ad36-b150-4925-af9e-9d9c28993ee6]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:16:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [5f690c4c-ac0c-4a3c-997f-bd4929350bc1]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:16:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [1f6afd3b-cbe9-4081-afb2-6c1e7cbdabeb]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:16:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 6 ms Request ID: [2de0ca51-2d5c-4dc0-924b-2fe016f0dcd4]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:16:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [b6b734d0-0f89-4b51-a113-74af235c3e0e]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:16:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [72b2731c-6679-4065-a96f-ecc93baa08dd]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:16:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [7fb8f879-3964-417b-8cd5-ad6f90f259fe]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Fri Jan 26 2024 14:16:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [7904b2f3-4e3c-47d8-acb6-77ae144c5fcc]

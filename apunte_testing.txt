@@ -1,0 +1,98 @@
+En este caso vamos a testear en una aplicacion ya creada, pero tambien existe otra tecnica de crear el testing
+antes de la funcionalidad y eso se llama tdd.
+
+ El objetivo del testing es preservar la calidad y consistencia de una aplicacion
+ El testing es un area de la programacion dedicada a la prueba de funcionalidades y componentes en una aplicacion
+
+Si hay un test que no este pasando, tenemos que ir a depurar y arreglarlo
+
+
+Existen varias herrmanientas para realizar el testing , una de las mas populares es Jest que es un framework de javascript por el lado de nodejs
+asi como mokka tambien existe y en otros lenguaje existe respect y otras cosas mas.
+
+Bueno esta swtich de test, nos entrega un conjunto de herramientas para hacer match
+
+npm install -D Jest
+
+Ahora vamos a hacer una pequeña configuracion adicional a jest para que pueda leer nuestros archivos de ECMAScript 6  module
+y tambien una para que el coverage tome todos los archivos que necesitamos testear
+
+CONFIG ADICIONALES DE Jest
+"devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.js$": "babel-jest"
+    },
+    "collectCoverageFrom": [
+      "**/*.js"     //esto es para que nos tome todo los archivo del visual
+    ],
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "statements": 100, esto maneja el porcentaje de cobertura , que la idea es tenerlas a todos en 100, asi manejamos el 100% de nuestro proyecto que este testeado
+        "branches": 100,
+        "functions": 100,
+        "lines": 100
+      }
+    }
+  }
+
+  Hasta el momento tenemos jest y la configuracion de jest, ahora instalamos @babel/preset-env que esto va a ayudar a compilar mi test para que se pueda leer con ES6 Y
+  agregamos un archivo .babelrc, ya con esto podemos funcionar bien con es6 import.
+
+  Ahora dentro de nuestra carpeta test vamos a acrear un archivo llamado ejemplo.spec.js  , porque spec? porque test va a leer esa extension osino no lo va a leer
+  ahora vamos al package.json y agregamos en script :
+
+  "test": "jest --coverage",  es para hacer un run test y el coverage nos entregara un porcentaje de lo que tenemos testeado
+  y despues agregamo esto en script : "test:watch": "jest --watch" 
+
+  Ahora podemos hacer un run test y nos va a ejecutar todos los archivos .spec que es lo que queremos testear,
+
+  En resumen instalar altiro estas dependencias : 
+
+  npm i -D jest
+  Hacer las configuraciones de jest y tambien agregamos un archivo llamado .babelrc , tambien agregar en script "test": "jest --coverage" y "test:watch": "jest --watch"
+  npm i -D @babel/preset-env
+  npm i -D @faker-js/faker
+  npm i -D supertest //es para simular solicitudes http
+
+
+
+En este caso vamos a ver un test de controllador, pero todo se testea los models,helpers,utils etc
+
+Entonces dentro de test , creamos una carpeta de controllers llamada travels.spec.js, en este caso controller, pero deberiamos testear todo models,utils,helpers etc
+
+
+describe: es un nombre descriptivo, tengo que indicar que grupo de tests tengo aca, en mi caso travels y controllers
+it:un nombre descriptivo de que esta haciendo esa prueba y bueno se agrega una logica para ejecutar el test
+expect: respuesta del it
+matcher: es lo que espero que sea el expect, osea si matcher y expect son iguales la prueba pasa
+
+nota: en la mayoria de la empresa se testea la aplicacion antes de entrar a produccion, y el tester todo queda en el codigo nada se borra,
+porque esto llega a los papline que usan los de bops para correr la switch de test y ver que este funcionando todo, o por ejemplo
+crear un workflow de github actyon y que si los test no estan pasando no hay merch a produccion.
+
+
+entonces en el archivo travels.spec.js, importamos lo sgt: 
+
+import request from "supertest"; //
+import app from "../../server.js"; //para poder levantar el servidor y poder testearlo
+import { generateToken } from "../utils.js/login.js"; //como la ruta get all la tenemos protegida, entonces creamo una function que esta en utils, le decimos que me cree un email con la libreria faker que nos va a crear un email aleatorio para prueba y nos prueba crear un token
+import { faker } from "@faker-js/faker"; //esta libreria nos ayudara a crear email, nombres, apellidos de forma aleatoria, asi no tenemos que andar pensando que nombre y email ponerle y para poder simular, con esto nos evita eso y es todo mas rapido
+basicamente faker es para generar data falsa
+
+.send, es para enviar los parametros
+
+en https://jestjs.io/es-ES/docs/using-matchers estan los matcher como toBe,toBeInstanceOf etc la idea es aprenderlos si osi
+en https://fakerjs.dev/api/ estan todas las categorias, asique aqui buscamos las cosas que queremos crear aleatorio, ejemplo si queremos que email sea aleatorio, buscamos email
+
+
+
+
+
+
+nosotros deberiamos trabajar con 3 tipos de datos, 1 con produccion la otra de desarrollo y la otra de testing, obviamente la de produccion y testing es el espejo de el desarrollo

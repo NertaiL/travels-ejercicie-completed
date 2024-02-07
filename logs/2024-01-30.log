@@ -1,0 +1,60 @@
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 13:22:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaeza@gmail.com","password":"sofi"}}
+Completed: 400 message:  Time response: 58 ms Request ID: [46080a01-289c-4036-80dd-914eafd71870]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 13:22:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaeza@gmail.com","password":"sofi"}}
+Completed: 400 message:  Time response: 6 ms Request ID: [cf5228be-7061-407c-83ec-dc8649854c5a]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 13:22:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"nombre":"sofia","apellido":"baeza","email":"sbaeza@gmail.com","password":"sofi"}}
+Completed: 200 message:  Time response: 178 ms Request ID: [7734e14d-2c6c-4a95-9230-b59648684333]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 13:22:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaeza@gmail.com","password":"sofi"}}
+Completed: 400 message:  Time response: 5 ms Request ID: [edf88bd3-ef2f-400d-96a1-ffbc7cc73f71]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 13:22:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaeza@gmail.com","password":"sofi"}}
+Completed: 400 message:  Time response: 6 ms Request ID: [36521f0d-3bd7-4b28-a76f-52787a9fa052]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 13:22:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaeza@gmail.com","password":"sofi"}}
+Completed: 400 message:  Time response: 5 ms Request ID: [4a4ca75a-7d5d-467f-b776-3ed0b4dd246a]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 13:22:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaeza@gmail.com","password":"sofi"}}
+Completed: 400 message:  Time response: 4 ms Request ID: [4ec4dfa9-174e-45a3-9310-9fc996c16e5d]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 13:23:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"sbaeza@gmail.com","password":"sofi"}
+Completed: 500 message:  Time response: 8 ms Request ID: [026c01da-5698-401c-b889-ca26bbd1f8ad]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 13:23:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaeza@gmail.com","password":"sofi"}}
+Completed: 400 message:  Time response: 5 ms Request ID: [ff6d132f-160d-4139-a2b2-3f644bba7bf5]
+
+Started POST /api/v1/auth_user for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 13:29:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"sbaeza@gmail.com","password":"sofi"}}
+Completed: 200 message:  Time response: 180 ms Request ID: [adce6d03-c0d6-4ac5-9992-b244c3feb3bd]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 13:31:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 6 ms Request ID: [fd76292c-7de5-45a8-bc34-73992d4d9e5a]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 13:31:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [5672b205-8b2d-4208-9ef1-34a02c22c21c]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 13:34:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 46 ms Request ID: [40614347-80c1-47f6-96c7-8198ceebaa54]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 13:36:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 31 ms Request ID: [013ff2f3-da98-46c9-ab32-39b7b8a27602]
+
+Started GET /api/v1/travels for :: ::ffff:127.0.0.1 at Tue Jan 30 2024 13:42:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 93 ms Request ID: [73b5f671-c31d-4757-a2f9-d19f12e9d3d9]

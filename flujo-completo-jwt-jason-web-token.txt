@@ -1,0 +1,108 @@
+nota: tenemos que validar las propiedades que sean not null, yaque no puede venir vacio ,entonces se puede crear
+middlewares o express valideitor para validar asi evitamos que viaje a la base de dato si existe o no, lo sacamos antes que entre al Flujo 
+por ejemplos, en caso de que si viene un campo vacio y el campo es not null, la idea es rechazarlo altiro antes que entre al flujo de controller y models
+y bueno tambien podriamos validarlo si es un string y pasa y si no no pasa cosas asi
+en la ruta de login tambien puedo validar si me viene el password y el email,
+sin olvidarnos que en las rutas se aplican los middlewares.
+
+
+
+
+FLUJO DE USUARIO
+primero seria crear la table en la cual vamos a hacer un login:
+
+  CREATE TABLE usuarios (
+    id SERIAL PRIMARY KEY, 
+    nombre VARCHAR(50) NOT NULL, 
+    apellido VARCHAR(50) NOT NULL, 
+    email VARCHAR(50) NOT NULL, 
+    password VARCHAR(50) NOT NULL,
+    created_at TIMESTAMP NOT NULL DEFAULT NOW(), 
+    updated_at TIMESTAMP NOT NULL DEFAULT NOW()
+);
+
+en este caso queremos pedirle el email y la password
+
+instalar la libreria npm i jsonwebtoken y tambien instalamos npm i bcrypt
+
+creamos userRoutes , usersController , userModel = En el controllador hacemos la logica para crear el usuario nomas y en modelo hacemos la logica del insert into para crear el usuario y tambien hacemos la logica para buscar por email, la de email sera ocupada en loginController
+en el modelo importamos  import bcrypt from "bcryptjs"; para poder encryptar nuestra password.
+En el userModel, una es para crear al usuario y el otro es para search by gmail para poder generar la autenticacion, la cual tambien importamos import pool from "../../../../config/db/conectionDb.js";
+import bcrypt from "bcryptjs"; y tambien importamos el connectionDb.js pool , para poder hacer las consulta a la base de dato.
+la libreria bcrypt es una de la mas usadas suele ser la mas segura hasta el momento
+
+
+
+Flujo de autenticacion
+
+teoria:
+La generación de un token consiste en ejecutar el método sign de la instancia jwt
+El primer argumento de este método es el payload que existirá dentro del token cifrado.
+El segundo argumento es la llave secreta, la cual debe ser usada para decodificar posteriormente este u
+otro token generado con la misma llave.
+La llave secreta es un dato de estricta importancia que debe ser guardado con mucho cuidado, quien la
+tenga podrá firmar nuevos tokens accediendo a recursos y funcionalidades restringidas.
+const token = jwt.sign(<payload>, <llave secreta>) en el payload es lo que vamos a querer guardar algo que sea poco sensible, como el email el nombre apellido etc.
+y la llave secreta es la que guardamos en .env la que creamos nosotros,JWT_SECRET= cualquiercosa
+cuando creamos un json web token, nos devolvera varias cosas y que cada cosita que esten separan por un punto es un tramo de informacion
+
+ahora en la pagina jwt.io, podemos colocar nuestro token para minuto 42:06 del video
+
+practica:
+
+creamos loginRoutes.js y loginController.js
+
+creamos  loginControllers.js y dentro lo importamos import jwt from "jsonwebtoken", importamos import bcrypt from "bcrypt";
+importamos tambien el diccionario de errores: import { findError } from "../utils/utils.js"; y tambien importamos lo que
+tenemos en el modelo del userModel que seria para buscar por id en la base de datos de usuarios: import { byEmail } from "../models/userModel.js"
+y ya ahi hacemos la logica del login, como queremos que el inicie sesion en este caso por el email, por eso creamos El
+buscar por email y bueno despues empezamos a validar por si tiene o no el email y si tiene despues seguimos con un else si la contraseña comparada es igual y si es igual sigue
+y bueno retornamos el token alfinal
+
+Flujo de autorizacion
+
+Primero creamos un middlewares llamado isLogin.ks para poder validar el token ,recibido de la autenticacion, entonces valido si el token llego pasa a la asiguiente validacione,
+verifico el token y lo firmo y retorno el token decodificado, y obviamente importamos jsonwebtoken ynuestro diccionario de errores.
+
+(entonces te vas al thunderclient a la ruta get y en auth colocas el metodo bearer y pegas el token ,)
+
+obviamente nosotros escojemos que rutas esten protegidas,como las protegemos? solo importamos el isLogin a routes y la colocamos al medio ya que es un middlewares, 
+nuestra estructura que creamos esque nos da la libertad de ver que rutas va protegidas
+y cuales son, ahora cuando yo quiero proteger una ruta, primero tenemos que crear un middlewares en este caso isLogin.js este token va a ver si el token
+es valido y si esta presente, primero importamos nuestro diccionario de errores y importamos import jwt from "jsonwebtoken"
+porque vamos a ocupar su metodo de verificacion de token que seria jwt.verify, cuando la logica del isLogin este listo podremos
+importarlo en cualquier ruta que queramos proteger , obviamente menos la ruta de autenticacion yaque no podriamos autenticarnos.
+ejemplo : router.get("/travels",isLogin ,getAllTravels); aqui estamos protegiendo el metodo get y esto se lee asi
+primero lee la ruta y luego pasa al middlewares si esta correcto pasa al controllador
+
+
+
+RESUMEN:
+TENEMOS LA TABLA DE USUARIO CREADA Y CUANDO CREAMO UN USUARIO TU PASSWORD SE ENCRIPTA Y OBVIO OCUPANDO LA LIBRERIA bcryptjs PARA ENCRIPTARLA
+
+LUEGO PASAMOS A LA AUTENTICACION, LE PASAMOS CAMPOS QUE SEA UNICO PARA INICIAR SESION, EN MI CASO LE PASE EMAIL Y PASSWORD, PUEDE SER UN RUT, PATENTE DE VEHICULO ETC ALGO UNICO QUE NO SE REPITA
+
+AHORA CUANDO INICIE SESION, LE VA A DEVOLVER UN TOKEN Y ESE TOKEN LO PODEMOS OCUPAR EN ALGUNA RUTAS QUE ESTE protegidas
+
+LAS RUTAS PROTEGIDAS, LO PRIMERO QUE TENEMOS QUE HACER ES UN VERIFYTOKEN Y TODA SU LOGICA Y LUEGO LA PASAMOS A LA RUTA QUE QUEREMOS proteger
+EN ESTE CASO PROTEGIMOS LA RUTA GET QUE NOS TRAE TODOS LOS REGISTRO DE TRAVELS, PARA ESO LE PASAMOS EL TOKEN Y NOS DARA LA INFORMACION DE LOS REGISTROS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aprender a ocupar express valideitor
+
+
+
+
+
