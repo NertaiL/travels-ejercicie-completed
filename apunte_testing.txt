@@ -56,11 +56,38 @@ CONFIG ADICIONALES DE Jest
 
   npm i -D jest
   Hacer las configuraciones de jest y tambien agregamos un archivo llamado .babelrc , tambien agregar en script "test": "jest --coverage" y "test:watch": "jest --watch"
-  npm i -D @babel/preset-env
-  npm i -D @faker-js/faker
+  npm i -D @babel/preset-env 
+  npm i -D @faker-js/faker //para crear data falsa
   npm i -D supertest //es para simular solicitudes http
+  luego agregar esto en scripts  , "test": "jest --coverage --forceExit",
+    "test:watch": "jest --watch", "clear-cache": "jest --clearCache",
+    "test-open-handles": "jest --detectOpenHandles"
+  crear el archivo .babelrc.
+
+  y por ultimo agregar esto debajo de devDependencies: 
+  "jest": {
+    "transform": {
+      "^.+\\.js$": "babel-jest"
+    },
+    "collectCoverageFrom": [
+      "**/*.js"
+    ],
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "statements": 100,
+        "branches": 100,
+        "functions": 100,
+        "lines": 100
+      }
+    }
+  }
 
 
+  crear carpeta test y dentro crear carpeta utils y controllers en este caso y dentro de utils el archivo ejemplo.spec.js mas que nada para ver que esta corriendo correctamente los test a modo de prueba
+  luego crear el archivo en controllers en este caso travels.spec.js y empezar a hacer los testing
 
 En este caso vamos a ver un test de controllador, pero todo se testea los models,helpers,utils etc
 

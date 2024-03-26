@@ -14,7 +14,7 @@ const PORT = process.env.PORT || 3000
 swagger(app)
 app.use(express.json())
 /* app.use(logger()) */
-app.use(cors())
+app.options('*', cors()) //para no tener problemas de cors con swagger
 app.use("/api/v1",travelRouter)
 app.use("/api/v1",userRouter)
 app.use("/api/v1",loginRouter)

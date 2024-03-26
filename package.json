@@ -5,10 +5,12 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "test": "jest --coverage",
+    "test": "jest --coverage --forceExit",
     "test:watch": "jest --watch",
     "start": "node server.js",
-    "dev": "node --watch server.js"
+    "dev": "node --watch server.js",
+    "clear-cache": "jest --clearCache",
+    "test-open-handles": "jest --detectOpenHandles"
   },
   "keywords": [],
   "author": "",

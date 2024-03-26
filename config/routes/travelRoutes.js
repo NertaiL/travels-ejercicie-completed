@@ -17,9 +17,9 @@ const router = Router() */
 import { verifyTokenToAuthorize } from "../../middlewares/verifyToken.js";
 
 const router = express.Router();
-
-/**
- * @swagger
+// se empieza con un /* y se termina con un */ y se empieza con un @swagger entonces ya sswagger ya sabe que tiene que incluir lo que esta para documentar
+/*      
+ * @swagger //el tag se puede reutilizar por eso lo hicimos aqui
  * tags:
  *   name: Travels
  *   description: API para la gestión de viajes
@@ -84,8 +84,97 @@ const router = express.Router();
  */
 
 router.get("/travels", verifyTokenToAuthorize, getAllTravels);
+
+//post
+/**
+ * @swagger
+ * /travels:
+ *   post:
+ *     summary: Crear un nuevo viaje
+ *     tags: [Travels]
+ *     requestBody: //como es un post necesitamos el payload, entonces le decimos si lo requerimos y le pasamos true si lo necesito
+ *       required: true 
+ *       content:
+ *         application/json: //va a tener un json 
+ *           schema:
+ *              type: object  // va a hacer de tipo objeto 
+ *              properties:
+ *                travel:
+ *                  $ref: '#/components/schemas/Travels' //aqui reutilizamos el schemas, que es como se crearon en la base de dato tipo integer etc.
+ *     responses:  //en caso de exito que me responda con un 201 
+ *       '201':
+ *         description: Success
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 travel:
+ *                   $ref: '#/components/schemas/Travels'
+ *       '400':
+ *         description: Error al obtener los viajes
+ */
+
 router.post("/travels", createTravels);
+
+//put
+/**
+ * @swagger
+ * /travels/{id}:
+ *   put:
+ *     summary: Actualizar un viaje //una breve descripcion de lo que hace la ruta
+ *     tags: [Travels] //a cual travels pertenece
+ *     parameters:
+ *       - in: path //porque necesitamos parametro de la url el id
+ *         name: id
+ *         required: true
+ *         schema:
+ *           type: integer  //en este caso porque es un id es un numero asique integer
+ *         description: The travel's id
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             properties:
+ *               travel:
+ *                 $ref: '#/components/schemas/Travels'
+ *     responses:
+ *       '200':
+ *         description: Success
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 travel:
+ *                   $ref: '#/components/schemas/Travels'
+ *       '400':
+ *         description: Error al obtener los viajes
+ */
+
 router.put("/travels/:id", updateTravels);
+
+/**
+ * @swagger
+ * /travels/{id}:
+ *   delete:
+ *     summary: Eliminar un viaje
+ *     tags: [Travels]
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema:
+ *           type: integer
+ *         description: The travel's id
+ *     responses:
+ *       '204':
+ *         description: Success
+ *       '400':
+ *         description: Error al obtener los viajes
+ */
 router.delete("/travels/:id", removeTravels);
 
 router.get("/travels/:id", getTravelsById);

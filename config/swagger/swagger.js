@@ -16,7 +16,7 @@ const options = {
     ],
   },
   apis: ["config/routes/*.js"], //aqui especificamos donde va a estar la documentacion, para que swagger la pueda leer, en este caso le decimos en carpeta config luego routes y le decimos que este a tento a todos los archivos .js
-};
+};//como tenemos que cambiar la documentacion que tenemos en las rutas a docs, la direccion del archivo seria config/routes/docs/*.json o yml y para poder hacerlo como por el lado tenemos que hacerlo con yml o json
 
 const specs = swaggerJsdoc(options); //aqui llamo a la libreria de swagger.jsdoc y le pasamos las options que creamos
 
